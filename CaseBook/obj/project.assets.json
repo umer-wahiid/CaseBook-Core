@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\imran\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\imran\\source\\repos\\CaseBook-Core\\CaseBook\\CaseBook.csproj",
+      "projectUniqueName": "D:\\console\\CaseBook-Core\\CaseBook\\CaseBook.csproj",
       "projectName": "CaseBook",
-      "projectPath": "C:\\Users\\imran\\source\\repos\\CaseBook-Core\\CaseBook\\CaseBook.csproj",
-      "packagesPath": "C:\\Users\\imran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\imran\\source\\repos\\CaseBook-Core\\CaseBook\\obj\\",
+      "projectPath": "D:\\console\\CaseBook-Core\\CaseBook\\CaseBook.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "D:\\console\\CaseBook-Core\\CaseBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
